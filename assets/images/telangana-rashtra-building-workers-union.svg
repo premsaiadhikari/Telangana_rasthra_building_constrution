@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">Telangana Rashtra Building Construction Workers Union</title>
+  <desc id="desc">Circular construction workers union emblem with Telangana map, cranes, and a construction scene.</desc>
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f2d38a"/>
+      <stop offset="50%" stop-color="#d4a14a"/>
+      <stop offset="100%" stop-color="#a76b1d"/>
+    </linearGradient>
+    <linearGradient id="navy" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d234f"/>
+      <stop offset="100%" stop-color="#091a3d"/>
+    </linearGradient>
+  </defs>
+
+  <circle cx="400" cy="400" r="352" fill="url(#navy)" stroke="url(#gold)" stroke-width="18"/>
+  <circle cx="400" cy="400" r="292" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="4"/>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="3" text-transform="uppercase">
+    <path id="topArc" d="M 120 400 A 280 280 0 0 1 680 400" fill="none"/>
+    <path id="bottomArc" d="M 680 400 A 280 280 0 0 1 120 400" fill="none"/>
+    <text font-size="36" fill="#f9f3e7">
+      <textPath href="#topArc" startOffset="50%" text-anchor="middle">TELANGANA RASHTRA BUILDING CONSTRUCTION WORKERS UNION</textPath>
+    </text>
+    <text font-size="29" fill="#f9f3e7">
+      <textPath href="#bottomArc" startOffset="50%" text-anchor="middle">BUILDING TODAY • STRENGTHENING TOMORROW</textPath>
+    </text>
+  </g>
+
+  <g opacity="0.92">
+    <path d="M176 475 L364 475 L364 662 L176 662 Z" fill="#0c2a5f"/>
+    <path d="M308 441 L347 441 L347 663 L308 663 Z" fill="#4f628f"/>
+    <path d="M214 386 L285 386 L285 475 L214 475 Z" fill="#1b3d6b"/>
+    <path d="M216 347 L256 347 L256 385 L216 385 Z" fill="#f1b94a"/>
+    <path d="M280 321 L340 321 L340 386 L280 386 Z" fill="#2d4d87"/>
+    <path d="M352 282 L420 282 L420 475 L352 475 Z" fill="#163a6c"/>
+    <path d="M425 226 L495 226 L495 475 L425 475 Z" fill="#1f4c8e"/>
+    <path d="M502 268 L582 268 L582 475 L502 475 Z" fill="#234c81"/>
+    <path d="M600 319 L652 319 L652 475 L600 475 Z" fill="#153a70"/>
+    <path d="M430 204 L460 204 L460 218 L430 218 Z" fill="#c0d3eb"/>
+    <path d="M535 206 L565 206 L565 220 L535 220 Z" fill="#c0d3eb"/>
+  </g>
+
+  <g stroke="#d4a14a" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M90 395 L200 395"/>
+    <path d="M615 395 L710 395"/>
+    <path d="M215 395 L265 315"/>
+    <path d="M540 395 L585 315"/>
+    <path d="M250 315 L400 315"/>
+    <path d="M400 315 L530 315"/>
+    <path d="M310 315 L310 250"/>
+    <path d="M490 315 L490 250"/>
+    <path d="M310 250 L350 210"/>
+    <path d="M490 250 L450 210"/>
+    <path d="M195 520 L126 576"/>
+    <path d="M615 520 L680 576"/>
+  </g>
+
+  <g fill="#f3c55d" opacity="0.9">
+    <path d="M365 490 L385 490 L385 580 L365 580 Z"/>
+    <path d="M430 490 L450 490 L450 580 L430 580 Z"/>
+    <path d="M355 582 L450 582 L450 600 L355 600 Z"/>
+  </g>
+
+  <g fill="#f6f7f2" stroke="#d9b15e" stroke-width="4">
+    <circle cx="400" cy="535" r="78"/>
+    <circle cx="400" cy="535" r="54" fill="#dfe8ef"/>
+  </g>
+
+  <g fill="#d4a14a">
+    <circle cx="157" cy="286" r="8"/>
+    <circle cx="645" cy="286" r="8"/>
+  </g>
+
+  <g>
+    <path d="M220 670 L286 670 L293 722 L213 722 Z" fill="#e5b651"/>
+    <path d="M515 670 L581 670 L574 722 L498 722 Z" fill="#e5b651"/>
+    <g fill="#0a224f" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="18">
+      <text x="250" y="707">BUILDING</text>
+      <text x="496" y="707">TOMORROW</text>
+    </g>
+  </g>
+
+  <g transform="translate(400 624)" fill="#0d234f" stroke="#d4a14a" stroke-width="8">
+    <path d="M-110 10 L-95 -12 L-58 -12 L-40 10 L-58 32 L-95 32 Z" fill="#1b3d6b"/>
+    <path d="M40 10 L55 -12 L92 -12 L110 10 L92 32 L55 32 Z" fill="#1b3d6b"/>
+    <circle r="78" fill="none" stroke="#d4a14a" stroke-width="10"/>
+    <circle r="52" fill="none" stroke="#d4a14a" stroke-width="8"/>
+    <g stroke="#d4a14a" stroke-width="8" stroke-linecap="round">
+      <path d="M0 -100 L0 -70"/>
+      <path d="M0 100 L0 70"/>
+      <path d="M-100 0 L-70 0"/>
+      <path d="M100 0 L70 0"/>
+      <path d="M-72 -72 L-52 -52"/>
+      <path d="M72 -72 L52 -52"/>
+      <path d="M-72 72 L-52 52"/>
+      <path d="M72 72 L52 52"/>
+    </g>
+  </g>
+
+  <g transform="translate(400 565)">
+    <path d="M-30 35 L-5 -42 L30 -42 L55 35 Z" fill="#f1ba50"/>
+    <path d="M-20 35 L-15 58 L15 58 L20 35 Z" fill="#d69520"/>
+    <path d="M-70 14 L-40 8 L-30 44 L-60 48 Z" fill="#0e254f"/>
+    <path d="M70 14 L40 8 L30 44 L60 48 Z" fill="#0e254f"/>
+    <path d="M-58 62 L-24 64 L-14 86 L-48 86 Z" fill="#d4a14a"/>
+    <path d="M58 62 L24 64 L14 86 L48 86 Z" fill="#d4a14a"/>
+  </g>
+
+  <g transform="translate(400 470)" fill="#f5c057">
+    <path d="M-108 56 L-170 56 L-145 26 L-108 26 Z"/>
+    <path d="M108 56 L170 56 L145 26 L108 26 Z"/>
+  </g>
+
+  <g transform="translate(400 370)">
+    <path d="M-110 0 L-55 -86 L-25 -86 L-52 0 Z" fill="#d7dfe9"/>
+    <path d="M110 0 L55 -86 L25 -86 L52 0 Z" fill="#d7dfe9"/>
+    <path d="M-50 0 L70 0 L98 58 L-78 58 Z" fill="#e8edf3"/>
+    <path d="M-30 -30 L32 -30 L70 0 L-62 0 Z" fill="#0d234f" opacity="0.9"/>
+    <path d="M-55 0 L-110 0 L-145 58 L-92 58 Z" fill="#d5e0ea"/>
+    <path d="M55 0 L110 0 L145 58 L92 58 Z" fill="#d5e0ea"/>
+    <path d="M-40 58 L40 58 L60 95 L-60 95 Z" fill="#0f2449"/>
+  </g>
+
+  <g transform="translate(400 570)" fill="#d4a14a">
+    <circle cx="170" cy="-42" r="12"/>
+    <circle cx="-170" cy="-42" r="12"/>
+    <path d="M175 -42 L200 30 L183 40 L158 -28 Z"/>
+    <path d="M-175 -42 L-200 30 L-183 40 L-158 -28 Z"/>
+  </g>
+
+  <g transform="translate(400 495)">
+    <path d="M-150 68 C-68 48 -30 48 0 62 C30 48 70 48 150 68 L150 92 C68 120 26 120 0 104 C-30 122 -68 120 -150 92 Z" fill="#d9b15e" opacity="0.9"/>
+  </g>
+</svg>
